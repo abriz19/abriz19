@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm a passionate developer constantly learning and
 ## 📫 How to Reach Me
 
 - Email: abrizdessu@gmail.com
-- LinkedIn: [linkedin.com/in/abriz19](https://www.linkedin.com/in/abrehamdessu)
-- Twitter: [@abriz19](https://twitter.com/abreham_dessu)
+- LinkedIn: [linkedin.com/in/abrehamdessu](https://www.linkedin.com/in/abrehamdessu)
+- Twitter: [@abrehamdessu](https://twitter.com/abreham_dessu)
 
 ## ⚡ Fun Fact
 
