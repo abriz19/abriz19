@@ -1,42 +1,46 @@
-Hi there, I'm Abreham Dessu! 👋
+# Hi there 👋, I'm Abreham!
 
-🚀 Backend Engineer | Full-Stack Developer | Devops Engineer
+Welcome to my GitHub profile! I'm a passionate developer constantly learning and growing my skills in various technologies. Here's a bit about me:
 
-I'm a passionate software developer with a strong background in backend and full-stack development. I have experience building scalable applications using Node.js, NestJS, TypeScript, PostgreSQL, Prisma, and more. I also have expertise in API integrations, cloud services, and automation.
+## 🔭 Currently Working On
 
-🔹 Currently working at: Ablaze Labs, Addis Ababa, Ethiopia
+- Building and deploying scalable web applications.
+- Experimenting with new web frameworks and libraries.
+- Contributing to open-source projects.
 
-🔹 Tech Stack:
+## 🌱 Currently Learning
 
-💻 Languages: JavaScript, TypeScript, Python, Java, C++
+- Advanced React and Next.js
+- TypeScript for better type safety
+- Cloud services like AWS and Azure
 
-🛠️ Backend: Node.js, NestJS, Express.js, Prisma, TypeORM
+## 💬 Ask Me About
 
-🏗️ Frontend: React.js, Next.js, HTML, CSS, Tailwind
+- JavaScript and its frameworks (React, Node, Nest)
+- Backend development with Node.js, Express, and Nest
+- Restful APIs and GraphQL
+- DevOps practices and CI/CD pipelines
 
-🗄️ Databases: PostgreSQL, MySQL, MongoDB
+## 📫 How to Reach Me
 
-☁️ DevOps: Docker, Microsoft Azure, CI/CD, Apache Kafka
+- Email: abrizdessu@gmail.com
+- LinkedIn: [linkedin.com/in/abriz19](https://www.linkedin.com/in/abrehamdessu)
+- Twitter: [@abriz19](https://twitter.com/abreham_dessu)
 
-🔧 Tools: Git, Postman, Jira, Meilisearch
+## ⚡ Fun Fact
 
-🏆 Featured Projects
+- I love playing games and watching movies during weekends.
 
-🔹 Virtual Games Backend - A backend system for spin and win, bingo, and keno games.
+## 🛠️ Tools and Technologies
 
-🔹 Tour Management System - A web application for managing tours, bookings, and user interactions.
+- **Languages:** JavaScript, TypeScript, Python, Java
+- **Frameworks:** React, Next.js, Node.js, Express
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
+- **Cloud:** AWS, Azure, Google Cloud
 
-🔹 Task Management System - A task management app with NestJS, PostgreSQL, and TypeORM.
+## 📈 GitHub Stats
 
-📈 GitHub Stats
+![Abriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=abriz19&show_icons=true&theme=radical)
 
-
-
-
-📫 Connect with Me
-
-📧 Email: abrizdessu@gmail.com
-
-💼 LinkedIn: linkedin.com/in/abreham-dessu
-
-
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi! 😊
