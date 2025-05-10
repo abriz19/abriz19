@@ -68,7 +68,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with a strong **bac
 
 ## 📫 How to Reach Me
 
-- **Email:** abrizdessu@gmail.com
+- **Email:** abreham.dessu@gmail.com
 - **LinkedIn:** [linkedin.com/in/abrehamdessu](https://www.linkedin.com/in/abrehamdessu)
 - **GitHub:** [github.com/abriz19](https://github.com/abriz19)
 
